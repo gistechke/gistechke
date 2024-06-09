@@ -1,4 +1,3 @@
-Welcome to GIStechKE
 Welcome to the official GitHub page for GIStechKE! We specialize in providing cutting-edge GIS solutions and IT services to help businesses and organizations leverage the power of geographic information systems and modern technology.
 
 <!---
